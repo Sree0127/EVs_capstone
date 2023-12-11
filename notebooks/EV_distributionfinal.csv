@@ -1,0 +1,196 @@
+County,Transaction Year,EV_Count
+Adams,2019,11
+Adams,2020,17
+Adams,2021,29
+Adams,2022,38
+Adams,2023,39
+Asotin,2019,23
+Asotin,2020,32
+Asotin,2021,37
+Asotin,2022,46
+Asotin,2023,59
+Benton,2019,448
+Benton,2020,580
+Benton,2021,758
+Benton,2022,988
+Benton,2023,1193
+Chelan,2019,229
+Chelan,2020,287
+Chelan,2021,392
+Chelan,2022,519
+Chelan,2023,658
+Clallam,2019,274
+Clallam,2020,356
+Clallam,2021,473
+Clallam,2022,610
+Clallam,2023,708
+Clark,2019,1278
+Clark,2020,1561
+Clark,2021,2135
+Clark,2022,2906
+Clark,2023,3408
+Columbia,2019,6
+Columbia,2020,8
+Columbia,2021,8
+Columbia,2022,13
+Columbia,2023,12
+Cowlitz,2019,201
+Cowlitz,2020,264
+Cowlitz,2021,359
+Cowlitz,2022,500
+Cowlitz,2023,578
+Douglas,2019,96
+Douglas,2020,126
+Douglas,2021,169
+Douglas,2022,208
+Douglas,2023,264
+Ferry,2019,7
+Ferry,2020,12
+Ferry,2021,18
+Ferry,2022,27
+Ferry,2023,23
+Franklin,2019,130
+Franklin,2020,152
+Franklin,2021,247
+Franklin,2022,331
+Franklin,2023,422
+Garfield,2019,1
+Garfield,2020,2
+Garfield,2021,3
+Garfield,2022,4
+Garfield,2023,3
+Grant,2019,116
+Grant,2020,156
+Grant,2021,212
+Grant,2022,312
+Grant,2023,406
+Grays Harbor,2019,178
+Grays Harbor,2020,217
+Grays Harbor,2021,303
+Grays Harbor,2022,375
+Grays Harbor,2023,458
+Island,2019,481
+Island,2020,609
+Island,2021,767
+Island,2022,974
+Island,2023,1158
+Jefferson,2019,272
+Jefferson,2020,354
+Jefferson,2021,460
+Jefferson,2022,559
+Jefferson,2023,650
+King,2019,3144
+King,2020,3820
+King,2021,5039
+King,2022,6775
+King,2023,8134
+Kitsap,2019,970
+Kitsap,2020,1191
+Kitsap,2021,1598
+Kitsap,2022,2139
+Kitsap,2023,2552
+Kittitas,2019,116
+Kittitas,2020,155
+Kittitas,2021,237
+Kittitas,2022,346
+Kittitas,2023,425
+Klickitat,2019,76
+Klickitat,2020,98
+Klickitat,2021,131
+Klickitat,2022,171
+Klickitat,2023,204
+Lewis,2019,182
+Lewis,2020,219
+Lewis,2021,313
+Lewis,2022,392
+Lewis,2023,496
+Lincoln,2019,13
+Lincoln,2020,16
+Lincoln,2021,24
+Lincoln,2022,29
+Lincoln,2023,39
+Mason,2019,227
+Mason,2020,257
+Mason,2021,376
+Mason,2022,498
+Mason,2023,576
+Okanogan,2019,53
+Okanogan,2020,87
+Okanogan,2021,101
+Okanogan,2022,143
+Okanogan,2023,191
+Pacific,2019,57
+Pacific,2020,65
+Pacific,2021,110
+Pacific,2022,154
+Pacific,2023,168
+Pend Oreille,2019,14
+Pend Oreille,2020,14
+Pend Oreille,2021,28
+Pend Oreille,2022,32
+Pend Oreille,2023,45
+Pierce,2019,1516
+Pierce,2020,1809
+Pierce,2021,2440
+Pierce,2022,3276
+Pierce,2023,4030
+San Juan,2019,263
+San Juan,2020,359
+San Juan,2021,465
+San Juan,2022,578
+San Juan,2023,619
+Skagit,2019,425
+Skagit,2020,541
+Skagit,2021,722
+Skagit,2022,916
+Skagit,2023,1158
+Skamania,2019,44
+Skamania,2020,52
+Skamania,2021,99
+Skamania,2022,132
+Skamania,2023,155
+Snohomish,2019,1695
+Snohomish,2020,2023
+Snohomish,2021,2693
+Snohomish,2022,3659
+Snohomish,2023,4485
+Spokane,2019,690
+Spokane,2020,886
+Spokane,2021,1226
+Spokane,2022,1677
+Spokane,2023,2123
+Stevens,2019,61
+Stevens,2020,74
+Stevens,2021,94
+Stevens,2022,140
+Stevens,2023,178
+Thurston,2019,960
+Thurston,2020,1142
+Thurston,2021,1493
+Thurston,2022,2028
+Thurston,2023,2402
+Wahkiakum,2019,7
+Wahkiakum,2020,13
+Wahkiakum,2021,26
+Wahkiakum,2022,36
+Wahkiakum,2023,50
+Walla Walla,2019,111
+Walla Walla,2020,152
+Walla Walla,2021,209
+Walla Walla,2022,278
+Walla Walla,2023,319
+Whatcom,2019,759
+Whatcom,2020,933
+Whatcom,2021,1248
+Whatcom,2022,1630
+Whatcom,2023,2034
+Whitman,2019,85
+Whitman,2020,95
+Whitman,2021,124
+Whitman,2022,161
+Whitman,2023,234
+Yakima,2019,200
+Yakima,2020,253
+Yakima,2021,370
+Yakima,2022,519
+Yakima,2023,649
