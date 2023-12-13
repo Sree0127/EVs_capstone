@@ -1,4 +1,4 @@
-# Electric Vehicle Analysis Project
+# Exploratory Data Analysis of Electric Vehicles in Washington State
 
 Motivation
 
@@ -32,4 +32,4 @@ Challenges:
 
 •	Data Integrity: Addressing missing or incomplete fields within both datasets.
 •	Data Compatibility and Integration: Ensuring seamless merging of the datasets based on common   identifiers (e.g., VIN).
-•	Visualization Complexity: Designing clear and insightful visualizations to effectively convey findings     from the data.
+•	Visualization Complexity: Designing clear and insightful visualizations to effectively convey findings from the data.
