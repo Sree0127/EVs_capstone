@@ -1,0 +1,196 @@
+State of Residence,County,Transaction Year,EV_Count
+WA,Adams,2019,11
+WA,Adams,2020,17
+WA,Adams,2021,29
+WA,Adams,2022,38
+WA,Adams,2023,39
+WA,Asotin,2019,23
+WA,Asotin,2020,32
+WA,Asotin,2021,37
+WA,Asotin,2022,46
+WA,Asotin,2023,59
+WA,Benton,2019,448
+WA,Benton,2020,580
+WA,Benton,2021,758
+WA,Benton,2022,988
+WA,Benton,2023,1193
+WA,Chelan,2019,229
+WA,Chelan,2020,287
+WA,Chelan,2021,392
+WA,Chelan,2022,519
+WA,Chelan,2023,658
+WA,Clallam,2019,274
+WA,Clallam,2020,356
+WA,Clallam,2021,473
+WA,Clallam,2022,610
+WA,Clallam,2023,708
+WA,Clark,2019,1278
+WA,Clark,2020,1561
+WA,Clark,2021,2135
+WA,Clark,2022,2906
+WA,Clark,2023,3408
+WA,Columbia,2019,6
+WA,Columbia,2020,8
+WA,Columbia,2021,8
+WA,Columbia,2022,13
+WA,Columbia,2023,12
+WA,Cowlitz,2019,201
+WA,Cowlitz,2020,264
+WA,Cowlitz,2021,359
+WA,Cowlitz,2022,500
+WA,Cowlitz,2023,578
+WA,Douglas,2019,96
+WA,Douglas,2020,126
+WA,Douglas,2021,169
+WA,Douglas,2022,208
+WA,Douglas,2023,264
+WA,Ferry,2019,7
+WA,Ferry,2020,12
+WA,Ferry,2021,18
+WA,Ferry,2022,27
+WA,Ferry,2023,23
+WA,Franklin,2019,130
+WA,Franklin,2020,152
+WA,Franklin,2021,247
+WA,Franklin,2022,331
+WA,Franklin,2023,422
+WA,Garfield,2019,1
+WA,Garfield,2020,2
+WA,Garfield,2021,3
+WA,Garfield,2022,4
+WA,Garfield,2023,3
+WA,Grant,2019,116
+WA,Grant,2020,156
+WA,Grant,2021,212
+WA,Grant,2022,312
+WA,Grant,2023,406
+WA,Grays Harbor,2019,178
+WA,Grays Harbor,2020,217
+WA,Grays Harbor,2021,303
+WA,Grays Harbor,2022,375
+WA,Grays Harbor,2023,458
+WA,Island,2019,481
+WA,Island,2020,609
+WA,Island,2021,767
+WA,Island,2022,974
+WA,Island,2023,1158
+WA,Jefferson,2019,272
+WA,Jefferson,2020,354
+WA,Jefferson,2021,460
+WA,Jefferson,2022,559
+WA,Jefferson,2023,650
+WA,King,2019,3144
+WA,King,2020,3820
+WA,King,2021,5039
+WA,King,2022,6775
+WA,King,2023,8134
+WA,Kitsap,2019,970
+WA,Kitsap,2020,1191
+WA,Kitsap,2021,1598
+WA,Kitsap,2022,2139
+WA,Kitsap,2023,2552
+WA,Kittitas,2019,116
+WA,Kittitas,2020,155
+WA,Kittitas,2021,237
+WA,Kittitas,2022,346
+WA,Kittitas,2023,425
+WA,Klickitat,2019,76
+WA,Klickitat,2020,98
+WA,Klickitat,2021,131
+WA,Klickitat,2022,171
+WA,Klickitat,2023,204
+WA,Lewis,2019,182
+WA,Lewis,2020,219
+WA,Lewis,2021,313
+WA,Lewis,2022,392
+WA,Lewis,2023,496
+WA,Lincoln,2019,13
+WA,Lincoln,2020,16
+WA,Lincoln,2021,24
+WA,Lincoln,2022,29
+WA,Lincoln,2023,39
+WA,Mason,2019,227
+WA,Mason,2020,257
+WA,Mason,2021,376
+WA,Mason,2022,498
+WA,Mason,2023,576
+WA,Okanogan,2019,53
+WA,Okanogan,2020,87
+WA,Okanogan,2021,101
+WA,Okanogan,2022,143
+WA,Okanogan,2023,191
+WA,Pacific,2019,57
+WA,Pacific,2020,65
+WA,Pacific,2021,110
+WA,Pacific,2022,154
+WA,Pacific,2023,168
+WA,Pend Oreille,2019,14
+WA,Pend Oreille,2020,14
+WA,Pend Oreille,2021,28
+WA,Pend Oreille,2022,32
+WA,Pend Oreille,2023,45
+WA,Pierce,2019,1516
+WA,Pierce,2020,1809
+WA,Pierce,2021,2440
+WA,Pierce,2022,3276
+WA,Pierce,2023,4030
+WA,San Juan,2019,263
+WA,San Juan,2020,359
+WA,San Juan,2021,465
+WA,San Juan,2022,578
+WA,San Juan,2023,619
+WA,Skagit,2019,425
+WA,Skagit,2020,541
+WA,Skagit,2021,722
+WA,Skagit,2022,916
+WA,Skagit,2023,1158
+WA,Skamania,2019,44
+WA,Skamania,2020,52
+WA,Skamania,2021,99
+WA,Skamania,2022,132
+WA,Skamania,2023,155
+WA,Snohomish,2019,1695
+WA,Snohomish,2020,2023
+WA,Snohomish,2021,2693
+WA,Snohomish,2022,3659
+WA,Snohomish,2023,4485
+WA,Spokane,2019,690
+WA,Spokane,2020,886
+WA,Spokane,2021,1226
+WA,Spokane,2022,1677
+WA,Spokane,2023,2123
+WA,Stevens,2019,61
+WA,Stevens,2020,74
+WA,Stevens,2021,94
+WA,Stevens,2022,140
+WA,Stevens,2023,178
+WA,Thurston,2019,960
+WA,Thurston,2020,1142
+WA,Thurston,2021,1493
+WA,Thurston,2022,2028
+WA,Thurston,2023,2402
+WA,Wahkiakum,2019,7
+WA,Wahkiakum,2020,13
+WA,Wahkiakum,2021,26
+WA,Wahkiakum,2022,36
+WA,Wahkiakum,2023,50
+WA,Walla Walla,2019,111
+WA,Walla Walla,2020,152
+WA,Walla Walla,2021,209
+WA,Walla Walla,2022,278
+WA,Walla Walla,2023,319
+WA,Whatcom,2019,759
+WA,Whatcom,2020,933
+WA,Whatcom,2021,1248
+WA,Whatcom,2022,1630
+WA,Whatcom,2023,2034
+WA,Whitman,2019,85
+WA,Whitman,2020,95
+WA,Whitman,2021,124
+WA,Whitman,2022,161
+WA,Whitman,2023,234
+WA,Yakima,2019,200
+WA,Yakima,2020,253
+WA,Yakima,2021,370
+WA,Yakima,2022,519
+WA,Yakima,2023,649
