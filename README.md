@@ -28,6 +28,9 @@ Data Sources:
 •	Link: https://catalog.data.gov/dataset/electric-vehicle-title-and-registration-activity
 •	File Type: .csv
 
+Technologies Used:
+Python, Excel and Tableau
+
 Challenges:
 
 •	Data Integrity: Addressing missing or incomplete fields within both datasets.
