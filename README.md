@@ -1,22 +1,27 @@
 # Exploratory Data Analysis of Electric Vehicles in Washington State
 
-Motivation
+Motivation:
 
 The increasing adoption of electric vehicles in Washington State aligns with the global shift towards sustainable transportation. This project aims to analyze distribution patterns and growth trends of EVs across diverse regions to inform stakeholders, policymakers, and the public about the ongoing transition towards cleaner transportation alternatives.
 
-Data Questions:
+Our project centers on conducting an extensive analysis of electric vehicle (EV) adoption trends. We intend to investigate several pivotal areas of interest:
+
+Evolution of EV Distribution Across Counties:
+Explore the evolution of electric vehicle distribution across diverse counties in Washington State over recent years.
+
+Factors Influencing EV Adoption and Growth:
+Examine the factors that significantly influence the adoption and growth of EVs within these regions.
+
+Geographical Distribution by Make and Model:
+Analyze the geographic distribution of vehicles based on their make and model, mapping their spatial presence across the region.
+
+Project Overview:
+
+Our project focuses on conducting an in-depth analysis of electric vehicle (EV) adoption trends. We aim to explore several key areas of interest:
 
 1.	How has the distribution of electric vehicles evolved across various counties in Washington State over recent years?
 2.	What factors influence the adoption and growth of EVs in these regions?
-3.	What variations exist in registration transactions among different types of electric vehicles?
-
-The MVP includes an interactive visualization dashboard with the following features:
-
--Interactive map showcasing spatial distribution of EVs across counties.
--Graphical representations of EV density within cities or specific regions.
--Time-series charts illustrating EV registrations' evolution in selected areas.
--Graphs depicting trends in EV model years.
--Visualizations exploring relationships between CAFV eligibility, electric range, and MSRP against EV prevalence.
+3.	How are vehicles distributed geographically based on their make and model?
 
 Data Sources:
 
@@ -30,6 +35,12 @@ Data Sources:
 
 Technologies Used:
 Python, Excel and Tableau
+
+Python Libraries:
+Pandas: Data manipulation and analysis
+Matplotlib, Seaborn: Data visualization
+Folium: Interactive mapping
+NumPy: Numerical computing
 
 Challenges:
 
