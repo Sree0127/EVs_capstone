@@ -24,8 +24,8 @@ Our project focuses on conducting an in-depth analysis of electric vehicle (EV) 
 
 1.	How has the distribution of electric vehicles evolved across various counties in Washington State over recent years?
 2.	What factors influence the adoption and growth of EVs in these regions?
-3.	How are vehicles distributed geographically based on their make and model?
-4.	How is the distribution of charging stations across various cities in Washington State, and which are the top 3 cities with the highest concentration of charging stations?
+3.	How are vehicles distributed geographically based on their make?
+4.	How is the distribution of charging stations across various cities in Washington State, and which are the top cities with the highest concentration of charging stations?
 
 Data Sources:
 
