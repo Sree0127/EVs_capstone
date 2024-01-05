@@ -58,4 +58,4 @@ Challenges:
 
 ### Tableau Visualization url:
 
-https://public.tableau.com/app/profile/sreelatha.madasu/viz/ExploratoryDataAnalysisofWashingtonState/DataAnalysisStory?publish=yes
+https://public.tableau.com/app/profile/sreem/viz/ExploratoryDataAnalysisofWashingtonState/DataAnalysisStory
